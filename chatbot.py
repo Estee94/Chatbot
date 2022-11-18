@@ -27,8 +27,8 @@ while True:
     request = input(name+': ')
 
     if request=="Bye" or request=='bye':
-        print('Bot: Bye')
+        print('Amazebot: Bye')
         break
     else:
         response=bot.get_response(request)
-        print('Bot: ', response)
+        print('Amazebot: ', response)
