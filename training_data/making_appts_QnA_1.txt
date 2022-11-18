@@ -1,0 +1,11 @@
+Hello, I am Trevelyan House Surgery Amazebot. How can I help you today?,
+I need to book an appointment,
+Ok! Please let me know what kind of appointment you are looking for and with who?,
+I need to see the nurse for a dressing change.,
+Ok. What is a suitable date and time for you?,
+5th December anytime,
+Here are the available options: 5th December:10:00AM, 7th December:11:00AM, 9th December:3:30PM,
+I would like to book 5th December at 10:00am,
+Ok. Your appointmemnt with the nurse has been scheduled for the 5th of December at 10:00AM. Is there anything else I can help you with today?,
+No, that is all thank you, bye,
+Bye, have a lovely day
