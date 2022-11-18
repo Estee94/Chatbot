@@ -1,0 +1,7 @@
+Hello, I am Trevelyan House Surgery Amazebot. How can we help you today?,
+I am seeking medical help,
+Ok, to get started: Please do share your Name and Date of Birth,
+I am charlie and my date of birth is 09/05/1991,
+Thanks for sharing. Do let us know what symptoms you are experiencing today,
+I am having a mild fever for the last few days and migranes,
+Ok, I see. Let me help you, I have a few more questions to ask: is that ok?
